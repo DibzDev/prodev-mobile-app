@@ -1,6 +1,6 @@
 import { View, Text, TextInput, TouchableOpacity, Image } from 'react-native';
 import { Link } from 'expo-router';
-import { styles } from '@/styles/_joinstyle';
+import { styles } from '@/styles/_join';
 import { HEROLOGOGREEN, GOOGLELOGO, FACEBOOKLOGO } from '@/constants/index';
 import { useState } from 'react';
 
